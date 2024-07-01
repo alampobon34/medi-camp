@@ -1,5 +1,4 @@
 # Website Name: MediCamp.
-# Assignment_ID: assignment12_category_0017
 
 Organizer -> username/email: organizer@gmail.com   
 Organizer -> password: org@123
