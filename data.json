@@ -1,0 +1,82 @@
+[
+    {
+        "campName": "Free medical camp",
+        "campFee": 0,
+        "dateTime": "2024-06-20T10:00",
+        "location": "Mymensingh",
+        "professional": "Dr ASM Tanim Anwar",
+        "participant": 20,
+        "description": "A free medical camp will be held to provide treatment and medicine to nearly 1,000 distressed rural people marking the first death anniversary of Md Anwar Hossain, former managing director of Khulna Newsprint Mills.More than twenty specialist physicians from Dhaka will provide treatment at Purba Darillah village under Nandail Upazila in Mymensigh from 10am to 4 pm, a press release said here today.",
+        "image": "https://jamunabankfoundation.com/uploads/content/2023-03-27.jpg"
+    },
+    {
+        "campName": "Camp for COVID-19 Vaccinations",
+        "campFee": 15,
+        "dateTime": "2024-07-10T09:00",
+        "location": "Cox’s Bazar",
+        "professional": "Dr M.A. Halim",
+        "participant": 50,
+        "description": "The vaccination campaign will be on 10 July with priority for people aged 55 and over covering 48,000 camp residents. About 500 Bangladesh Red Crescent staff and volunteers are working under the Population Movement Operation (PMO) and the Myanmar Refugee Relief Operation (MRRO), in collaboration with UNHCR and health authorities, in the urgent rollout all over the 34 camps.",
+        "image": "https://www.ifrc.org/sites/default/files/styles/article_press_release_featured_image/public/p-BGD4025_png.png?itok=tdvEoo-B"
+    },
+    {
+        "campName": "Blood Donation Program",
+        "campFee": 5,
+        "dateTime": "2024-06-12T12:00",
+        "location": "Dhaka",
+        "professional": "Dr. Shahidur Rahman",
+        "participant": 150,
+        "description": "As part of the service work, a Facebook page called “HOPES Blood Bank” has been opened by Hopes to meet the blood needs of the needy during their illness. HOPES donates free blood to emergency and dying patients besides providing medical assistance to the needy, underprivileged people of the society.",
+        "image": "https://www.ewubd.edu/storage/app/uploads/public/62b/d55/662/62bd5566265e6976021645.jpg"
+    },
+    {
+        "campName": "Eye Care and Cataract Surgery Camp",
+        "campFee": 0,
+        "dateTime": "2024-06-25T08:00",
+        "location": "Rajshahi",
+        "professional": "Dr. Feroz Ahmed",
+        "participant": 30,
+        "description": "This camp is organized to provide free eye check-ups and cataract surgeries for underprivileged individuals. A team of experienced ophthalmologists from Dhaka will conduct the surgeries and offer post-operative care to the patients.",
+        "image": "https://www.nadadventist.org/sites/default/files/inline-images/IIW%20eyes%20for%20india%202021%20mid%20res%20IMG_6806.jpg"
+    },
+    {
+        "campName": "Dental Health Camp",
+        "campFee": 10,
+        "dateTime": "2024-07-05T09:00",
+        "location": "Chattogram",
+        "professional": "Dr. Nusrat Jahan",
+        "participant": 40,
+        "description": "This dental health camp aims to provide free dental check-ups, cleanings, and minor dental procedures for the local community. The camp will be supported by dental professionals from the Chattogram Dental College.",
+        "image": "https://mams.co.in/wp-content/uploads/2023/04/dental-camp-10.jpg"
+    },
+    {
+        "campName": "Mother and Child Health Camp",
+        "campFee": 0,
+        "dateTime": "2024-06-30T10:00",
+        "location": "Sylhet",
+        "professional": "Dr. Tasnim Khan",
+        "participant": 60,
+        "description": "Focused on maternal and child health, this camp will provide free medical check-ups, vaccinations, and health education for mothers and children. The event will be conducted by pediatricians and obstetricians from Sylhet Medical College.",
+        "image": "https://www.who.int/images/default-source/searo---images/countries/bangladesh/cxb/1.-celebrating-the-work-of-nurses-and-midwives-in-cox-s-bazar.jpg?Status=Master&sfvrsn=625bef8c_9"
+    },
+    {
+        "campName": "General Health Check-up Camp",
+        "campFee": 20,
+        "dateTime": "2024-07-15T09:00",
+        "location": "Barishal",
+        "professional": "Dr. A.K.M. Jamal",
+        "participant": 70,
+        "description": "A comprehensive health check-up camp offering services like blood tests, ECG, and general consultations. A team of general practitioners and specialists from Barishal will be available for diagnosis and treatment.",
+        "image": "https://www.rubyhospital.com/images/events/180721/2.jpg"
+    },
+    {
+        "campName": "Free Diabetes Screening Camp",
+        "campFee": 0,
+        "dateTime": "2024-06-18T08:30",
+        "location": "Khulna",
+        "professional": "Dr. Sabrina Islam",
+        "participant": 100,
+        "description": "This camp is dedicated to early detection and management of diabetes. Free blood sugar testing, dietary advice, and medication will be provided. Endocrinologists from Khulna Diabetes Center will be present to assist the patients.",
+        "image": "https://cghr-badas.org/wp-content/uploads/2020/05/Nationwide-DM-Screening-0003-min-1536x1020.jpg"
+    }
+]
